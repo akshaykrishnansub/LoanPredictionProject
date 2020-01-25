@@ -9,5 +9,5 @@ This is a classification problem where we have to predict whether the loan would
 
 Description:
 
-The files logistic.csv,Log2.csv,Decision_Tree.csv,xgboost1.csv,RandomForest.csv are the output files.
+The files logistic.csv,Log2.csv,Decision_Tree.csv,xgboost1.csv,RandomForest.csv are the output files, where we have made predictions.
 train_ctrUa4K.csv,test_lAUu6dG.csv are the training and test datasets respectively.
